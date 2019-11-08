@@ -9,14 +9,14 @@ run `source ~/.bashrc`
 
 ### 2.install numpy, matplotlib
 
->* use pip to install(Recommended)
+#### 2.1 use pip to install(Recommended)
 
 `pip install numpy scipy matplotlib`
 
->* use apt-get to install
+#### 2.2 use apt-get to install
 
 `sudo apt-get install python3-numpy python3-scipy python3-matplotlib`
 
->* Test
+#### 2.3 Test
 
 run python in the terminal, and run `import numpy`,`import matplotlib`. if there isn't any warnning, those libraries is well installed.
